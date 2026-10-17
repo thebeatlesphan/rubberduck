@@ -4,3 +4,9 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+anyhow = "1.0.104"
+clap = "4.6.7"
+ignore = "0.4.33"
+reqwest = "0.13.5"
+serde = "1.0.229"
+serde_json = "1.0.154"
